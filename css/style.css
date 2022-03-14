@@ -7,4 +7,19 @@
 
 .debug{
   border: 1px solid red;
+  background-color: beige;
+}
+/* General */
+.box, .box-nested{
+  background-color: #0061f9;
+  border: 1px solid #ffffff;
+  min-height: 50px;
+  text-align: center;
+  color: #ffffff;
+  padding: 15px;
+}
+.box-nested{
+  background-color: #24df6b;
+  border: 1px solid #0061f9;
+  
 }
