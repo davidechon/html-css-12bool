@@ -22,3 +22,21 @@
   background-color: #24df6b;
   border: 1px solid #0061f9;
 }
+.box-large{
+  height: 100px;
+  border: 1px solid red;
+}
+
+/* Alignment*/
+.start{
+  justify-content: flex-start;
+  text-align: center;
+}
+.center{
+  justify-content: center;
+  text-align: center;
+}
+.end{
+  justify-content: flex-end;
+  text-align: center;
+}
